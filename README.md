@@ -3,7 +3,7 @@
 [![PyPI](https://img.shields.io/pypi/v/aioagent)](https://pypi.org/project/aioagent/)
 [![Python](https://img.shields.io/pypi/pyversions/aioagent)](https://pypi.org/project/aioagent/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![CI](https://github.com/mariotrerotola/aioagent/actions/workflows/ci.yml/badge.svg)](https://github.com/mariotrerotola/aioagent/actions)
+
 
 **Lightweight async multi-agent framework for Python.**
 
